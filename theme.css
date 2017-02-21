@@ -2684,7 +2684,7 @@ tbody.collapse.show {
   position: relative;
   display: flex;
   flex-direction: column;
-  padding: 0.5rem 1rem; }
+  padding: 2rem 1rem; }
 
 .navbar-brand {
   display: inline-block;
