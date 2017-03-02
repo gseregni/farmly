@@ -982,4 +982,7 @@ body > * {
 
 .navbar {
   border-bottom :5px solid $brand-primary; 
+  .active {
+      border-bottom :2px solid $brand-primary; 
+  }
 }
