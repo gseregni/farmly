@@ -6126,3 +6126,6 @@ body > * {
   display: flex;
   flex-direction: column;
   justify-content: center; }
+
+.navbar {
+  border-bottom: 5px solid #5e7ab1; }
